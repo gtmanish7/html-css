@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background-image: url(empty-asphalt-road-through-modern-city-china.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.main{
+    display: flex;
+    align-items: center;
+    background-color: rgb(127, 255, 212, 0.3)  ;
+    
+    margin: 50px;
+
+    height: 300px;
+    width: 300px;
+    align-items: center;
+}
+.main form{
+    margin: 60px;
+}

@@ -1,0 +1,16 @@
+.header{
+    padding: 25px;
+    margin: 0px;
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 25px;
+    color: black;
+}
+.content{
+    padding: 50px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: pink;
+    font-size: 25px;
+    color: black;
+}
